@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-07 15:03 UTC
-Latest batch received:  2020-11-07 14:45 UTC
+Last updated:           2020-11-07 15:19 UTC
+Latest batch received:  2020-11-07 15:18 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -261,8 +261,9 @@ North Carolina (EV: 15) Total Votes: (Trump: 2,732,733, Biden: 2,656,207)
 
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,336,887, Trump: 3,308,054)
 ----------------  ---  ----------------  ----------------------  -------------------------  ----------------  -----------------------------  ----------------
-2020-11-07 14:45  ***  Biden up 28,833   Left (est.): 98,167     Δ:       0 (n/a)           96.24% precincts  Trump needs 64.04% [-0.006%]   & trends  26.20%
-2020-11-07 14:39  ***  Biden up 28,833   Left (est.): 98,125     Δ:       0 (n/a)           96.24% precincts  Trump needs 64.05% [0.157%]    & trends  26.20%
+2020-11-07 15:18  ***  Biden up 28,833   Left (est.): 96,092     Δ:       0 (n/a)           96.24% precincts  Trump needs 64.36% [0.317%]    & trends  26.20%
+2020-11-07 14:45  ---  Biden up 28,833   Left (est.): 98,167     Δ:       0 (n/a)           96.24% precincts  Trump needs 64.04% [-0.006%]   & trends  26.20%
+2020-11-07 14:39  ---  Biden up 28,833   Left (est.): 98,125     Δ:       0 (n/a)           96.24% precincts  Trump needs 64.05% [0.157%]    & trends  26.20%
 2020-11-07 14:23  ---  Biden up 28,833   Left (est.): 99,187     Δ:       0 (n/a)           96.24% precincts  Trump needs 63.89% [-2.383%]   & trends  26.20%
 2020-11-07 14:17  ---  Biden up 28,833   Left (est.): 85,215     Δ:       0 (n/a)           96.24% precincts  Trump needs 66.27% [-0.329%]   & trends  26.20%
 2020-11-07 03:46  ---  Biden up 28,833   Left (est.): 83,589     Δ:   3,201 (Biden +26.6%)  96.24% precincts  Trump needs 66.60% [1.617%]    & trends  26.20%
