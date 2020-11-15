@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-15 15:25 UTC
-Latest batch received:  2020-11-15 15:22 UTC
+Last updated:           2020-11-15 15:33 UTC
+Latest batch received:  2020-11-15 15:31 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -387,8 +387,9 @@ Nevada (EV: 6) Total Votes: (Biden: 703,277, Trump: 669,278)
 2020-11-04 13:28  ---  Biden up 7,647   Left (est.): 202,563  Δ:       0 (n/a)           80.78% precincts  Trump needs 50.88% [-49.121%]  & trends  n/a
 ----------------  ---  ---------------  --------------------  -------------------------  ----------------  -----------------------------  ----------------
 
-North Carolina (EV: 15) Total Votes: (Trump: 2,755,458, Biden: 2,681,582)
+North Carolina (EV: 15) Total Votes: (Trump: 2,756,747, Biden: 2,683,471)
 ----------------  ---  ---------------  --------------------  --------------------------  ----------------  ----------------------------------  ----------------
+2020-11-15 15:31  ***  Trump up 73,302  Left (est.): -557     Δ:   1,025 (Trump + 1.3%)   99.81% precincts  Biden needs 0.00% [-7877.918%]      & trends  47.33%
 2020-11-15 15:22  ***  Trump up 73,276  Left (est.): 468      Δ:   4,105 (Biden + 7.3%)   98.84% precincts  Biden needs 7877.92% [-64.110%]     & trends  47.26%
 2020-11-15 15:16  ***  Trump up 73,876  Left (est.): 468      Δ:   1,706 (Trump + 5.2%)   97.75% precincts  Biden needs 7942.03% [19.012%]      & trends  46.24%
 2020-11-13 20:58  ---  Trump up 73,698  Left (est.): 468      Δ:       0 (n/a)            97.52% precincts  Biden needs 7923.02% [7923.017%]    & trends  47.15%
